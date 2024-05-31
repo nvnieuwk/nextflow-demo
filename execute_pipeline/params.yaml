@@ -1,0 +1,10 @@
+genome: sarscov2
+igenomes_ignore: true
+fasta: https://github.com/nf-core/test-datasets/raw/modules/data/genomics/sarscov2/genome/genome.fasta
+fasta_fai: https://github.com/nf-core/test-datasets/raw/modules/data/genomics/sarscov2/genome/genome.fasta.fai
+input: samplesheet.csv
+outdir: results
+skip_tools: baserecalibrator
+max_cpus: 2
+max_memory: 6.GB
+aligner: bwa-mem2

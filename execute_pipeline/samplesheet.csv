@@ -1,0 +1,2 @@
+patient,sample,lane,fastq_1,fastq_2
+test,test,test_lane,https://github.com/nf-core/test-datasets/raw/modules/data/genomics/sarscov2/illumina/fastq/test_1.fastq.gz,https://github.com/nf-core/test-datasets/raw/modules/data/genomics/sarscov2/illumina/fastq/test_2.fastq.gz
