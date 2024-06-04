@@ -1,6 +1,6 @@
 # Demo steps
 
-1. Install Nextflow in a fresh conda environment
+1. Install Nextflow in a fresh conda environment (unless you are using GitPod)
 
 ```bash
 mamba create -n nextflow-demo -c bioconda -c conda-forge nextflow
